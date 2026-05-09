@@ -1,4 +1,4 @@
-# Vital Organicist 🌿
+# NutriWise 🌿
 
 Aplikasi mobile pelacak nutrisi dan kalori harian berbasis Flutter.
 
